@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Download and install [MongoDB Compass](https://www.mongodb.com/try/download/community) or set up MongoDB Atlas.
 
-- Ensure MongoDB is running on mongodb://127.0.0.1:27017/TodoList.   
+- Ensure MongoDB is running on `mongodb://127.0.0.1:27017/TodoList`.   
 
 ## Usage
 - The frontend of the application is served using React.

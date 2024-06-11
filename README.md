@@ -114,7 +114,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ```
 
 ## Setting Up MongoDB
-1. Download and install MongoDB Compass or set up a cloud instance using MongoDB Atlas.
+1. Download and install [MongoDB Compass](https://www.mongodb.com/try/download/community) or set up a cloud instance using [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database).
 
 2. Ensure MongoDB is running on `mongodb://127.0.0.1:27017/TodoList`.
 

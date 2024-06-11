@@ -12,6 +12,18 @@ npm run dev
 npm install axios react-icons
 ```
 ```
+npm install express mongoose cors
+```
+```
+npm install nodemon
+```
+```
+node index.js
+```
+```
+cd Server
+```
+```
 npm init-y
 ```
 ```

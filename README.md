@@ -2,6 +2,8 @@
 
 A Todo List application built using the MERN stack (MongoDB, Express, React, Node.js) with SCSS for styling.
 
+## Preview
+
 ## Prerequisites
 
 - Node.js

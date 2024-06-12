@@ -1,4 +1,4 @@
-# Todo-List-in-Ejs-React-Nodejs-MongoDB-Scss
+# Todo-List-in-ExpressJs-ReactJs-Nodej=js-MongoDB-Scss
 
 A Todo List application built using the MERN stack (MongoDB, Express, React, Node.js) with SCSS for styling.
 

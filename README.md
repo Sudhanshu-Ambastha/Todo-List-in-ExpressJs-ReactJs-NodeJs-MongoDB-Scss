@@ -3,7 +3,7 @@
 A Todo List application built using the MERN stack (MongoDB, Express, React, Node.js) with SCSS for styling.
 
 ## Preview
-<picture><img src = "landingpage/src/assets/trial.gif" width = 100%></picture>
+<picture><img src = "todolist/public/Todo.gif" width = 100%></picture>
 
 ## Prerequisites
 

@@ -20,7 +20,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Todo-List-in-Ejs-React-Nodejs-MongoDB-Scss.git
+   git clone "https://github.com/Sudhanshu-Ambastha/Todo-List-in-ExpressJs-ReactJs-NodeJs-MongoDB-Scss"
    ```
 2. Install the dependencies:
    ```
